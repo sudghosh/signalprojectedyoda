@@ -1,0 +1,2 @@
+# signalprojectedyoda
+This Signal Project is based on django python. This project is all about how to send and receive signals from one app to other in a project in django. I learned about this in www.edyoda.com and the name of the tutor is Mr. Lukasz Makini &lt;iframe src="https://player.vimeo.com/video/445805370" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>&lt;/iframe> Tutorial link given above.
